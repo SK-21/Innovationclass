@@ -284,8 +284,8 @@ button:focus {
     }
 }
 .home_banner_area .banner_inner .banner_content h2 {
-    font-size: 48px;
-    font-weight: 500;
+    font-size: 70px;
+    font-weight: 800;
 }
 .home_banner_area .banner_inner .banner_content p {
     font-size: 20px;
@@ -625,8 +625,8 @@ h6 {
         padding-top: 71px;
     }
     .home_banner_area .banner_inner .banner_content h2 {
-        font-size: 40px;
-        line-height: 44px;
+        font-size: 50px;
+        line-height: 48px;
     }
     .home_banner_area .banner_inner .banner_content img {
         display: none;
